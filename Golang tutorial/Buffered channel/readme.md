@@ -4,4 +4,4 @@ Well one of the main feature of Golang ( and probably the most important one ) i
 
 In this video, I talked about each of these codes. Check it out if you want to see how they are implemented **step by step**: https://youtu.be/SHMNwdY7sYo
 
-<img src="https://github.com/parsaeisa/parsatube_codes/blob/master/thumbnails/Golang%20tutorial%2C%20Buffered%20channels.png" >
+<img src="https://github.com/parsaeisa/parsatube_codes/blob/master/thumbnails/Golang%20tutorial%2C%20Buffered%20channels.png">
